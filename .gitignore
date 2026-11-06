@@ -1,0 +1,17 @@
+## .NET 构建产物
+bin/
+obj/
+out/
+
+## IDE
+.vs/
+.vscode/
+.idea/
+*.user
+
+## 系统
+Thumbs.db
+.DS_Store
+
+## 日志
+*.log
